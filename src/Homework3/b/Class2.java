@@ -1,4 +1,4 @@
-package HelloJavaWorld.b;
+package Homework3.b;
 
 public class Class2 {
     public void metodaDinClasa2() {

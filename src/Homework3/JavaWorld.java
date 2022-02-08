@@ -1,7 +1,7 @@
-package HelloJavaWorld;
+package Homework3;
 
-import HelloJavaWorld.a.Class1;
-import HelloJavaWorld.b.Class2;
+import Homework3.a.Class1;
+import Homework3.b.Class2;
 
 public class JavaWorld {
     public static void main(String[] args) {
